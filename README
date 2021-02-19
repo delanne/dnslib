@@ -1,6 +1,6 @@
-
-
 ## From Version 0.9.12 the master repository for _dnslib_ has been moved to GitHub (https://github.com/paulc/dnslib). Please update any links to the original BitBucket repository as this will no longer be maintained.
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdelanne%2Fdnslib.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdelanne%2Fdnslib?ref=badge_shield)
+
 
 
 dnslib
@@ -362,3 +362,7 @@ Master Repository/Issues:
  *   https://github.com/paulc/dnslib  
 
  (Note: https://bitbucket.org/paulc/dnslib has been deprecated and will not be updated)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdelanne%2Fdnslib.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdelanne%2Fdnslib?ref=badge_large)
